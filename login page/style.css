@@ -1,0 +1,59 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+    background: url(bg.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+.container{
+    color:black;
+    position: absolute;
+    top: 30%;
+    left: 14%;
+}
+.container h1{
+    display: inline-block;
+    font-size: 40px;
+    margin-bottom: 30px;
+    padding: 5px 0;
+}
+.box{
+    width:500px;
+}   
+.box input{
+    background: none;
+    width:50%;
+    border: none;
+    font-size: 20px;
+    outline: none;
+    color: black;
+    padding:5px
+    
+}
+.box{
+    width: 100%px;
+    padding: 0px 10px;
+    border-bottom: 2px solid black;
+    margin: 25px;
+    
+}
+.btn{
+    font-weight: bold;
+    cursor: pointer;
+    outline: none;
+    width: 20%;
+    border-radius: 10px;
+    border-color: 5px solid black;
+    margin: 15px;
+    padding: 6px;
+    font-size: 18px;
+    background: none;
+}
+.btn:hover{
+    color:black;
+    background: white;
+    
+}
+    
+   
