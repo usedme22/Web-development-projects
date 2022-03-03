@@ -1,2 +1,2 @@
 # Web-development-projects
- Using Html , css , javascripts I developed  some project .
+ Using Html , css I developed  some project .
